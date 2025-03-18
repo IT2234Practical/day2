@@ -26,3 +26,16 @@ A.forEach((p)=>
 				console.log(p)
 	})
 })
+
+
+/* output******************************
+
+
+------ Find common element in the A,B array-----
+------ Using For Loop-----
+5
+3
+------ Using ForEach Loop-----
+5
+3
+
