@@ -13,3 +13,16 @@ for(let i=0; i< arr.length; i++)
 		}
 	}
 }
+
+
+/*output*********************8
+
+C:\Users\ASUS\Desktop\Git\web\Day2>node SumTarget.js
+1 6
+2 5
+3 4
+4 3
+5 2
+6 1
+
+C:\Users\ASUS\Desktop\Git\web\Day2>
