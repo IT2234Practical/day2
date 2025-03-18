@@ -8,3 +8,10 @@ console.log(array)
 	}
 	
 	console.log(newArray)
+
+
+/*output***************
+
+C:\Users\ASUS\Desktop\Git\web\Day2>node ReversePushPop.js
+[ 'a', 'b', 'c', 'd' ]
+[ 'd', 'c', 'b', 'a' ]
