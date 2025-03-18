@@ -8,3 +8,12 @@ array.push('e')
 	
 array.pop()
 	console.log(array)
+
+
+/*output******************
+
+[ 'a', 'b', 'c' ]
+[ 'a', 'b', 'c', 'e' ]
+[ 'a', 'b', 'c' ]
+
+C:\Users\ASUS\Desktop\Git\web\Day2>
