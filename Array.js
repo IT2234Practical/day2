@@ -75,3 +75,52 @@ console.log("------ 2D Array Display-Method 02-ForEach ----- ")
 	console.log("\n")
 
 
+	
+	/*output***************************************************************************************
+	
+	
+------ Array Display-Method 01 -----
+[ 1, 2, 3, 4 ]
+
+
+------ Array Display-Method 02- ForLoop -----
+1
+2
+3
+4
+
+
+------ Array Display-Method 03-ForEach -----
+1
+2
+3
+4
+
+
+------ Find MAX number from array -----
+4
+
+
+===== 2D Array =====
+------ 2D Array Display-Method 01- ForLoop -----
+[ 1, 2, 3 ]
+[ 4, 5 ]
+[ 6, 7, 8 ]
+[ 4, 5 ]
+[ 6, 7, 8 ]
+[ 6, 7, 8 ]
+
+
+------ 2D Array Display-Method 02-ForEach -----
+1
+2
+3
+4
+5
+6
+7
+8
+
+*/
+
+
